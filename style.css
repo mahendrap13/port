@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&family=Tapestry&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+font-family: 'Ms Madi', cursive;
+font-family: 'Tapestry', cursive;
+
+}
+.po{
+    background-image:  url(bgimg.png );
+    height: 100%;
+    background-position: center;
+    background-size: cover; 
+
+    background-repeat: no-repeat;
+}
+body,html{
+    height: 100%;}
+ul li {
+        margin-top: 15px;
+}
+nav {
+    background-color: rgb(144, 159, 171);
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content:space-between;   
+}
+.logo{
+    height: 3%;
+    width: 3%;
+    padding: 1%;
+}
+.in{
+    height: 3%;
+    width: 3%;
+    padding: 1%;
+}
+nav li {
+    display: inline-block;
+}
+nav ul {
+    font-size: 200%;
+}
+nav li a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+nav li a:hover{
+    color: white;
+    transition: all 0.6s ease;
+}
+.name{
+    color: azure;
+}
+.oo{
+    color: azure;
+}
+span{
+    color: rgb(209, 104, 99);
+}
+h1{
+    font-size: 300%;
+        
+}
+.info{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+p{
+    font-size: 20px;
+    color: azure;
+}
+
+
+
+
